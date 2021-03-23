@@ -14,8 +14,10 @@
 
 - [re-frame](https://github.com/day8/re-frame)
 - [re-com](https://github.com/day8/re-com)
+- [re-frame-10x](https://github.com/day8/re-frame-10x)
 - [re-frame-fetch-fx](https://github.com/superstructor/re-frame-fetch-fx)
 - [re-jsoneditor](https://github.com/superstructor/re-jsoneditor)
+- [re-highlight](https://github.com/superstructor/re-highlight)
 
 ## How to Reach Me
 
