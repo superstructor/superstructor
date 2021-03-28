@@ -18,6 +18,7 @@
 - [re-frame-fetch-fx](https://github.com/superstructor/re-frame-fetch-fx)
 - [re-jsoneditor](https://github.com/superstructor/re-jsoneditor)
 - [re-highlight](https://github.com/superstructor/re-highlight)
+- [re-spinners](https://github.com/superstructor/re-spinners)
 
 ## How to Reach Me
 
