@@ -4,10 +4,11 @@
 
 - Clojure(Script)
 - Python
+- JavaScript / TypeScript
 - 'Big' data
-- User interfaces (via ClojureScript)
-- Games (via Clojure.NET)
-- Network services (via Clojure on the JVM)
+- User interfaces
+- Games 
+- Network services
 - Decentralised web (Web3)
 
 ## Prior Work
