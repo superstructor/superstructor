@@ -2,7 +2,7 @@
 
 **AI-Native Solutions Architect & Builder** · Nairobi, Kenya (NZ Citizen)
 
-20+ years building production platforms. 6 languages. Sole architect of everything below.
+20+ years building production platforms. 6 languages.
 
 [superstruct.nz](https://superstruct.nz) · [great.sh](https://great.sh) · [isaac@superstruct.nz](mailto:isaac@superstruct.nz) · [LinkedIn](https://linkedin.com/in/superstructor) · [X](https://x.com/superstructor)
 
