@@ -26,7 +26,7 @@
 **Dxtra** - Enterprise privacy compliance. GDPR/CCPA automation, ML PII detection, multi-provider LLM stack, blockchain audit trails. 15+ microservices.
 `TypeScript` · `Python` · `FastAPI` · `LangChain` · `Java` · `Clojure` · `AWS CDK`
 
-**(IM)PERMANENT** - Fashion archive SaaS. ML classification, GPU pipeline, 3D Gaussian splatting, moodboard canvas.
+**(IM)PERMANENT** - Fashion archive SaaS. ML classification, GPU pipeline, moodboard canvas.
 `TypeScript` · `React` · `ComfyUI` · `Meilisearch` · `AWS CDK`
 
 **Discere OS** - Experimental. AI models with WebGPU inference, native WASM app ports, RAG architecture. [157+ repos](https://github.com/discere-os).
