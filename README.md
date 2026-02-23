@@ -56,6 +56,6 @@ Full timeline at [superstruct.nz](https://superstruct.nz)
 
 ---
 
-`TypeScript` · `Python` · `Rust` · `Go` · `Clojure` · `Java` | Claude Code · LangChain · LangGraph · MCP · RAG | AWS CDK · Docker · Kubernetes | Stellar · Convex · Hyperledger Fabric
+`TypeScript` · `Python` · `Rust` · `Go` · `Clojure` · `Java` | `Claude Code` · `LangChain` · `LangGraph` · `MCP` · `RAG` | `AWS CDK` · `Docker` · `Kubernetes` | `Stellar` · `Convex` · `Hyperledger Fabric`
 
 [superstruct](https://github.com/superstruct) · [discere-os](https://github.com/discere-os) · [superstructor](https://github.com/superstructor)
